@@ -1,0 +1,3 @@
+rootProject.name = 'BretTestCodePush'
+
+include ':app'
